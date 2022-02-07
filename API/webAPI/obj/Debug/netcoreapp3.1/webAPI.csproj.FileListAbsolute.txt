@@ -17,3 +17,14 @@ D:\Dev\visual-studio\coreAPI\API\webAPI\obj\Debug\netcoreapp3.1\webAPI.RazorTarg
 D:\Dev\visual-studio\coreAPI\API\webAPI\obj\Debug\netcoreapp3.1\webAPI.dll
 D:\Dev\visual-studio\coreAPI\API\webAPI\obj\Debug\netcoreapp3.1\webAPI.pdb
 D:\Dev\visual-studio\coreAPI\API\webAPI\obj\Debug\netcoreapp3.1\webAPI.genruntimeconfig.cache
+D:\Dev\visual-studio\coreAPI\API\webAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Dev\visual-studio\coreAPI\API\webAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Dev\visual-studio\coreAPI\API\webAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dev\visual-studio\coreAPI\API\webAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Dev\visual-studio\coreAPI\API\webAPI\obj\Debug\netcoreapp3.1\webAPI.csproj.CopyComplete
+D:\Dev\visual-studio\coreAPI\API\webAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Dev\visual-studio\coreAPI\API\webAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Dev\visual-studio\coreAPI\API\webAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Dev\visual-studio\coreAPI\API\webAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Dev\visual-studio\coreAPI\API\webAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dev\visual-studio\coreAPI\API\webAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
